@@ -1,7 +1,6 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Анатолий](https://up.htmlacademy.ru/htmlcss/31/user/1821705).
-* Наставник: [`Анастасия Смирнова`](https://htmlacademy.ru/profile/id232838).
 
 ---
 
